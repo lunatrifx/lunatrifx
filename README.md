@@ -1,6 +1,6 @@
 ### Hi everyone! My name is Paul.
 
-I'm primarily Nursing major (BSN) but I have completed various projects, trainings, and a degree in Computer Science. Here, I have a emphasis on Machine Learning and AI.
+I'm primarily a Nursing major (BSN) but I have completed various projects, trainings, and a degree in Computer Science. Here, I have a emphasis on Machine Learning and AI.
 
 ## 🔭 Current
 
