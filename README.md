@@ -1,6 +1,15 @@
-- 👋 Hi, I’m Paul a.k.a @lunatrifx!
-- I am also @sinodal, I lost my github from login to access codes so I am locked out of that profile unfortunately. I am passionate about helping better academics for both myself and others around me. I use Machine Learning concepts and 90% of my projects revolve around a theme students often come to understand and experiment with in this field. If you are interested about what I do and want to support me, you can both support me with a follow or a sponsor! Either or both would make my day. 
-<!---
-lunatrifx/lunatrifx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi everyone! My name is Paul.
+
+I'm primarily Nursing major (BSN) but I have completed various projects, trainings, and a degree in Computer Science. Here, I have a emphasis on Machine Learning and AI.
+
+## 🔭 Current
+
+I'm currently working as a backend personnel on Aurora Virtual, an upcoming local and dynamic music player. I am also leading Project Lavinium and Project Hera, more of which will be announced soon. In other facets, I am working on IT Certification from Apple and TEAS exam for Nursing school so please take this into consideration if I am late on replying to you.
+
+## ⚡️ Experience
+
+I have certifications as a ML engineer from Coursera, alongside completion of several professional courses from IBM such as Applied Data Science Capstone. As for my projects, I have worked with APIs and webscraping (such as SpaceX), but my emphasis lies in Addlyn-AI - a machine learning project.
+
+## 📫 Contact
+
+**General Inquiries:** plavinium@icloud.com
