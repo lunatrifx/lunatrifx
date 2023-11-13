@@ -1,7 +1,5 @@
 ### Hi everyone! My name is Paul.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunatrifx)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunatrifx)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm primarily a Nursing major (BSN) but I have completed various projects, trainings, and a degree in Computer Science. Here, I have a emphasis on Machine Learning and AI.
