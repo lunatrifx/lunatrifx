@@ -2,15 +2,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunatrifx)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm primarily a Nursing major (BSN) but I have completed various projects, trainings, and a degree in Computer Science. Here, I have a emphasis on Machine Learning and AI.
+I'm primarily a Nursing major (BSN) at Arizona State University.
 
 ## 🔭 Current
 
-I'm currently working as a backend personnel on Aurora Virtual, an upcoming local and dynamic music player. I am also leading Project Lavinium and Project Hera, more of which will be announced soon. In other facets, I am working on IT Certification from Apple and TEAS exam for Nursing school so please take this into consideration if I am late on replying to you.
+I'm currently working as a backend personnel on Aurora Virtual, an upcoming local and dynamic music player.
 
 ## ⚡️ Experience
 
-I have certifications as a ML engineer from Coursera, alongside completion of several professional courses from IBM such as Applied Data Science Capstone. As for my projects, I have worked with APIs and webscraping (such as SpaceX), but my emphasis lies in Addlyn-AI - a machine learning project.
+I have been working on a project called Addlyn, which is a AI oriented program, since 2019 when I was 17. It orignally started as a Twitter bot, and when I rebranded it to Iris I turned it into a package I build upon or simply deploy into other projects I collaborate or create.
 
 ## 📫 Contact
 
