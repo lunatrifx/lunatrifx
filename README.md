@@ -12,6 +12,21 @@ I'm currently working as a backend personnel on Aurora Virtual, an upcoming loca
 
 I have been working on a project called Addlyn, which is a AI oriented program, since 2019 when I was 17. It orignally started as a Twitter bot, and when I rebranded it to Iris I turned it into a package I build upon or simply deploy into other projects I collaborate or create.
 
+
+### Testimonials 
+
+<table>
+  <tr>
+    <th>Author</th>
+    <th>Message</th>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+</table>
+
 ## 📫 Contact
 
 **General Inquiries:** plavinium@icloud.com
+
+
