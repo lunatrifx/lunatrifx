@@ -23,6 +23,7 @@ I have been working on a project called Addlyn, which is a AI oriented program, 
   </tr>
   <tr>
     <td>Person 1</td></td>
+    <td></td>
     <td> Testimony to be added soon</td>
   </tr>
 </table>
