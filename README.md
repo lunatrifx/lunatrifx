@@ -6,7 +6,7 @@ I'm primarily a Nursing major (BSN) at Arizona State University.
 
 ## 🔭 Current
 
-I'm currently working as a backend personnel on Aurora Virtual, an upcoming local and dynamic music player.
+I'm currently working as a contributor to Epic Games' Unreal Engine 5 as a game and software developer. I previously worked as a backend developer on Aurora Virtual, a local and dynamic music player, similar to LimeWire or Spotify.
 
 ## ⚡️ Experience
 
