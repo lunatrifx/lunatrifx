@@ -13,7 +13,7 @@ I'm currently working as a backend personnel on Aurora Virtual, an upcoming loca
 I have been working on a project called Addlyn, which is a AI oriented program, since 2019 when I was 17. It orignally started as a Twitter bot, and when I rebranded it to Iris I turned it into a package I build upon or simply deploy into other projects I collaborate or create.
 
 
-### Testimonials 
+## Letters of Recommendation
 
 <table>
   <tr>
@@ -21,7 +21,8 @@ I have been working on a project called Addlyn, which is a AI oriented program, 
     <th>Message</th>
   </tr>
   <tr>
-    <td></td>
+    <td>Person 1</td></td>
+    <td> Testimony to be added soon</td>
   </tr>
 </table>
 
