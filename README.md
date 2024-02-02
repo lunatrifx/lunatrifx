@@ -18,6 +18,7 @@ I have been working on a project called Addlyn, which is a AI oriented program, 
 <table>
   <tr>
     <th>Author</th>
+    <th>Profession</th>
     <th>Message</th>
   </tr>
   <tr>
