@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunatrifx)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm primarily a Nursing major (BSN) at Arizona State University.
+I'm a student at Point Loma Nazarene University starting this fall.
 
 ## 🔭 Current
 
