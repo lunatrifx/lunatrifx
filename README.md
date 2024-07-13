@@ -10,7 +10,7 @@ I'm currently working as a contributor to Epic Games' Unreal Engine 5 as a game 
 
 ## ⚡️ Experience
 
-I have been working on a project called Addlyn, which is a AI oriented program, since 2019 when I was 17. It orignally started as a Twitter bot, and when I rebranded it to Iris I turned it into a package I build upon or simply deploy into other projects I collaborate or create.
+My last major project that I created was called Addlyn-AI in 2017. It was a 4 stage project, ranging from aspects of architecture modeling in utilizing an arduino, AutoCAD, OpenAI, and self-created protocols for image analysis via CoreML and Clara via Nvidia.
 
 
 ## Letters of Recommendation
