@@ -10,7 +10,7 @@ I'm currently working as a contributor to Epic Games' Unreal Engine 5 as a game 
 
 ## ⚡️ Experience
 
-My last major project that I created was called Addlyn-AI in 2017. It was a 4 stage project, ranging from aspects of architecture modeling in utilizing an arduino, AutoCAD, OpenAI, and self-created protocols for image analysis via CoreML and Clara via Nvidia.
+My last and current project that I created was called Addlyn.ai in 2017. It is a 4 stage project, ranging from aspects of architecture modeling in utilizing an arduino, AutoCAD, OpenAI, and self-created protocols for image analysis via CoreML and Clara via Nvidia.
 
 
 ## Letters of Recommendation
