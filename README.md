@@ -6,11 +6,11 @@ I'm a student attending San Diego State University.
 
 ## 🔭 Current
 
-I'm currently working as a contributor to Epic Games' Unreal Engine 5 as a game and software developer. I previously worked as a backend developer on Aurora Virtual, a local and dynamic music player, similar to LimeWire or Spotify.
+I'm currently working at the American Red Cross as a SAF/MEPS Data Analyst. I also work at Engineers Without Borders as a Audiovisual Engineer, which overlaps with another volunteer opportunity as a Video Codec SDK Engineer at NVIDIA. 
 
 ## ⚡️ Experience
 
-My last and current project that I created was called Addlyn.ai in 2017, when I was 15. It is a 4 stage project, ranging from aspects of architecture modeling in utilizing an arduino, AutoCAD, OpenAI, and self-created protocols for image analysis via CoreML and Clara via Nvidia.
+My last and current project that I created was called Addlyn.ai in 2017, when I was 15. The project is currently on hold as I fine tune a much more precise goal that I want. I am currently working on Amerieca,a CV model akin to Tesla. 
 
 
 ## Letters of Recommendation
