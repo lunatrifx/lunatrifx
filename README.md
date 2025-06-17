@@ -6,7 +6,7 @@ I'm a student attending San Diego State University.
 
 ## 🔭 Current
 
-I'm currently working at the American Red Cross as a SAF/MEPS Data Analyst. I also work at Engineers Without Borders as a Audiovisual Engineer, which overlaps with another volunteer opportunity as a Video Codec SDK Engineer at NVIDIA. 
+I'm currently working at the American Red Cross as a SAF/MEPS Data Analyst. I also work at Engineers Without Borders as a Audiovisual Engineer, which overlaps with another volunteer opportunity as a Video Codec SDK Engineer at NVIDIA. I am involved with the Department of Defense via Correlation One.
 
 ## ⚡️ Experience
 
