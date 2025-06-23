@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunatrifx)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm a student attending San Diego State University.
+I'm a undergraduate senior at San Diego State University.
 
 ## 🔭 Current
 
