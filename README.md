@@ -1,4 +1,4 @@
-### Hi everyone! My name is Paul.
+### Hello! Thank you for stopping by and visiting my tech portfolio.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunatrifx)](https://github.com/anuraghazra/github-readme-stats)
 
