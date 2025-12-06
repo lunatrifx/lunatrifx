@@ -1,7 +1,5 @@
 ### Hello! Thank you for stopping by and visiting my tech portfolio.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunatrifx)](https://github.com/anuraghazra/github-readme-stats)
-
 I'm attending San Diego State University. I am pursing a BS in Neuroscience, and MS in Electrical Engineering with a minor in Astronomy. 
 
 ## 🔭 Current
