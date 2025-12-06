@@ -42,24 +42,24 @@ I was the creator of Addlyn, a CV model I've created when I was 15. I am looking
 </tr>
     <td>Peripherals</td>
     <td>Insta360 Link 2, LG UltraGear 27" QHD 180Hz @ 2560x1440p </td>
-  
+</tr>
+    <td>Peripherals</td>
+    <td>Logitech G Pro (K/DA Version), Razer Basilisk V3 </td>
 </table>
 
 
-## Letters of Recommendation
+## I've Received Letters of Recommendation from:
 
 <table>
   <tr>
     <th>Author</th>
     <th>Profession</th>
-    <th>Message</th>
-  </tr>
   <tr>
     <td>Dr. Shaunte Griffith-Jackson</td></td>
     <td>Professor of Microbiology @ Southwestern College</td>
-    <td></td>
   </tr>
-    <td>P2</td>
+    <td>p2</td>
+    
 </table>
 
 ## 📫 Contact
