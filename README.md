@@ -8,7 +8,7 @@ I'm currently working as a Video Codec SDK Engineer in accordance with NVIDIA. I
 
 ## ⚡️ Experience
 
-I am currently working on NVIDIA Cosmos. Driven by curiosity, I always want to look for the most power and storage efficient solutions for comsumers; in addition to this I am driven to create video codec algorithms that present the best quality with any hardware. 
+I am currently working on NVIDIA Cosmos. Driven by curiosity, I always want to look for the most power and storage efficient solutions for consumers; in addition to this I am driven to create video codec algorithms that present the best quality with any hardware. 
 
 I was the creator of Addlyn, a CV model I've created when I was 15. I am looking to continue my work with Amerieca, another CV model but with significant upgrades to its predecessor.
 
