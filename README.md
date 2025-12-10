@@ -41,7 +41,7 @@ I was the creator of Addlyn, a CV model I've created when I was 15. I am looking
     <td>SEGOTEP 650W Modular PSU</td>
 </tr>
     <td>Peripherals</td>
-    <td>Insta360 Link 2, LG UltraGear 27" QHD 180Hz @ 2560x1440p </td>
+    <td>Insta360 Link 2, Bose Soundlink III, LG UltraGear 27" QHD 180Hz @ 2560x1440p </td>
 </tr>
     <td>Peripherals</td>
     <td>Logitech G Pro (K/DA Version), Razer Basilisk V3 </td>
