@@ -35,7 +35,7 @@ I was the creator of Addlyn, a CV model I've created when I was 15. I am looking
     <td>TP-LINK Archer TX553 WiFi 6 PCIe Adapter, CAT5E Ethernet </td>
 </tr>  
     <td>Storage</td>
-    <td>SAMSUNG 990 Evo Plus 1TB</td>
+    <td>SAMSUNG 990 Evo Plus 1TB, CRUCIAL P3 500GB</td>
 </tr>
     <td>PSU</td>
     <td>SEGOTEP 650W Modular PSU</td>
@@ -58,7 +58,8 @@ I was the creator of Addlyn, a CV model I've created when I was 15. I am looking
     <td>Dr. Shaunte Griffith-Jackson</td></td>
     <td>Professor of Microbiology @ Southwestern College</td>
   </tr>
-    <td>p2</td>
+    <td>Dr. Alexander Juden</td>
+    <td>Professor of Analytical Mathematics @ Southwestern College
     
 </table>
 
