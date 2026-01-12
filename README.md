@@ -4,13 +4,13 @@ I'm attending San Diego State University. I am pursing a BS in Neuroscience, and
 
 ## 🔭 Current
 
-I'm currently working as a Video Codec SDK Engineer in accordance with NVIDIA. I also work at Engineers Without Borders as a Audiovisual Engineer, and I am involved with the Department of Defense through Correlation One. I worked with the American Red Cross as a SAF/MEPS Data Analyst from May to August 2025.
+I'm currently working as a Video Codec SDK Engineer through the NVIDIA Developer Program. I worked with the American Red Cross as a SAF/MEPS Data Analyst from May to August 2025.
 
 ## ⚡️ Experience
 
 I am currently working on NVIDIA Cosmos. Driven by curiosity, I always want to look for the most power and storage efficient solutions for consumers; in addition to this I am driven to create video codec algorithms that present the best quality with any hardware. 
 
-I was the creator of Addlyn, a CV model I've created when I was 15. I am looking to continue my work with Amerieca, another CV model but with significant upgrades to its predecessor.
+I am the creator of Addlyn, a CV model I've created when I was 15. I am looking to continue my work with Amerieca, another CV model but with significant upgrades to its predecessor.
 
 ## My Specs 
 <table>
