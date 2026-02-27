@@ -6,40 +6,40 @@
   <table border="0">
     <tr>
       <td align="center" width="200">
-        <a href="SONG_LINK_1">
-          <img src="https://i.scdn.co/image/ab6761610000e5ebc361d36618c14d795837f139" width="150" style="border-radius: 50%;" alt="Bruno Mars"><br>
+        <a href="https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD?si=f088dcfbe068456d">
+          <img src="https://i.scdn.co/image/ab67616100005174c7688aad1bf03986934d7e26" width="150" style="border-radius: 50%;" alt="Bruno Mars"><br>
           <b>Bruno Mars</b>
         </a>
       </td>
       <td align="center" width="200">
-        <a href="SONG_LINK_2">
-          <img src="https://i.scdn.co/image/ab6761610000e5eb5626d708f51a700549c49a37" width="150" style="border-radius: 50%;" alt="Ella Mai"><br>
+        <a href="https://open.spotify.com/track/3NX2GYaCTAOhzz8xOFmBmA?si=2ad55be783eb447b">
+          <img src="https://i.scdn.co/image/ab676161000051745d6ed813fc2c93765152ff7e" width="150" style="border-radius: 50%;" alt="Ella Mai"><br>
           <b>Ella Mai</b>
         </a>
       </td>
       <td align="center" width="200">
-        <a href="SONG_LINK_3">
-          <img src="https://i.scdn.co/image/ab6761610000e5eb1d2745772390a8a649666014" width="150" style="border-radius: 50%;" alt="T-Pain"><br>
+        <a href="https://open.spotify.com/track/1tkMs9wDPknQ3ZHcKDw1ES?si=2ce24d61e7e74414">
+          <img src="https://i.scdn.co/image/ab6761610000e5eb173c878a651babb8d0db4cee" width="150" style="border-radius: 50%;" alt="T-Pain"><br>
           <b>T-Pain</b>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="200">
-        <a href="SONG_LINK_4">
-          <img src="https://i.scdn.co/image/ab6761610000e5eb305c4514309322c34d93e25b" width="150" style="border-radius: 50%;" alt="Jess Glynne"><br>
+        <a href="https://open.spotify.com/track/4fXfLQzQaR7cvL8ObPz9Fc?si=23835eb03f0643ff">
+          <img src="https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/87/53/c5/8753c525-44f3-8a3a-b31a-3c2d89519fa0/8bb8dda9-3c95-46e9-bad4-0a5353975881_ami-identity-0b3a9865fe16be1dad775d3fbda1b6ff-2024-04-26T09-55-03.459Z_cropped.png/486x486bb.png" width="150" style="border-radius: 50%;" alt="Jess Glynne"><br>
           <b>Jess Glynne</b>
         </a>
       </td>
       <td align="center" width="200">
-        <a href="SONG_LINK_5">
-          <img src="https://i.scdn.co/image/ab6761610000e5eb4f9448092ecb31362e646272" width="150" style="border-radius: 50%;" alt="Victoria Monét"><br>
+        <a href="https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X?si=2cfeec17c23f464b">
+          <img src="https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/78/5b/4e/785b4e82-dfac-84f7-e4a5-ce2d97a16768/ami-identity-313eff771340e7f0b1947977fa2e7bc3-2026-02-11T18-15-28.049Z_cropped.png/486x486bb.png" width="150" style="border-radius: 50%;" alt="Victoria Monét"><br>
           <b>Victoria Monét</b>
         </a>
       </td>
       <td align="center" width="200">
-        <a href="SONG_LINK_6">
-          <img src="https://i.scdn.co/image/ab6761610000e5eb66223594190623a23362a931" width="150" style="border-radius: 50%;" alt="Mariah the Scientist"><br>
+        <a href="https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc?si=a309f11dea9e4be4">
+          <img src="https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/5a/3d/f8/5a3df8e5-4f7e-4400-c7de-c4f6e5747c8a/file_cropped.png/486x486bb.png" width="150" style="border-radius: 50%;" alt="Mariah the Scientist"><br>
           <b>Mariah the Scientist</b>
         </a>
       </td>
