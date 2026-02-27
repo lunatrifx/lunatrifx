@@ -1,7 +1,17 @@
 ## TEST
-<a href="https://your-spotify-playlist-link.com">
-  <img src="artist_grid.png" alt="My Top Artists" width="100%">
-</a>
+<h3>My Top 6 Artists <small>(click a face to play a song!)</small></h3>
+
+<img src="artist_grid.png" usemap="#artist-map" width="100%">
+
+<map name="artist-map">
+  <area shape="circle" coords="190,190,150" alt="Artist 1" href="SONG_LINK_1">
+  <area shape="circle" coords="530,190,150" alt="Artist 2" href="SONG_LINK_2">
+  <area shape="circle" coords="870,190,150" alt="Artist 3" href="SONG_LINK_3">
+  
+  <area shape="circle" coords="190,530,150" alt="Artist 4" href="SONG_LINK_4">
+  <area shape="circle" coords="530,530,150" alt="Artist 5" href="SONG_LINK_5">
+  <area shape="circle" coords="870,530,150" alt="Artist 6" href="SONG_LINK_6">
+</map>
 
 
 ### Hello! Thank you for stopping by and visiting my tech portfolio.
