@@ -1,4 +1,3 @@
-## TEST
 <div align="center">
   <h3>🎵 My Top 6 Artists 🎵</h3>
   <p><i>Click a profile to play my favorite track</i></p>
