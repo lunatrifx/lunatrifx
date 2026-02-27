@@ -1,3 +1,9 @@
+## TEST
+<a href="https://your-spotify-playlist-link.com">
+  <img src="artist_grid.png" alt="My Top Artists" width="100%">
+</a>
+
+
 ### Hello! Thank you for stopping by and visiting my tech portfolio.
 
 I'm attending San Diego State University. I am pursing a BS in Neuroscience, and MS in Electrical Engineering with a minor in Astronomy. 
