@@ -9,5 +9,26 @@
     "name": "Ella Mai",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/b0/97/e5/b097e5c5-bb78-7a7c-f83a-e6580dc548e1/ami-identity-ead123fa7ecab821cfc29d75f05c2bd9-2026-02-04T19-45-01.308Z_cropped.png/486x486bb.png",
     "song_url": "https://music.apple.com/us/song/little-things/1858755207"
+  },
+  {
+    "name": "T-Pain",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/00/25/30/00253077-7ee5-794a-9c93-e2596d2c47d7/ami-identity-6c0d49046b81e8cdc51f99c9db0d9999-2025-10-06T22-26-28.262Z_cropped.png/486x486bb.png",
+    "song_url": "https://music.apple.com/us/song/buy-u-a-drank-shawty-snappin-feat-yung-joc/1556722419"
+  },
+    {
+    "name": "Jess Glynne",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/87/53/c5/8753c525-44f3-8a3a-b31a-3c2d89519fa0/8bb8dda9-3c95-46e9-bad4-0a5353975881_ami-identity-0b3a9865fe16be1dad775d3fbda1b6ff-2024-04-26T09-55-03.459Z_cropped.png/486x486bb.png",
+    "song_url": "https://music.apple.com/us/song/aint-got-far-to-go/993230260"
+  },
+    {
+    "name": "Victoria Monet",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/78/5b/4e/785b4e82-dfac-84f7-e4a5-ce2d97a16768/ami-identity-313eff771340e7f0b1947977fa2e7bc3-2026-02-11T18-15-28.049Z_cropped.png/486x486bb.png",
+    "song_url": "https://music.apple.com/us/song/let-me/1874386210"
+  },
+    {
+    "name": "Mariah the Scientist",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/5a/3d/f8/5a3df8e5-4f7e-4400-c7de-c4f6e5747c8a/file_cropped.png/486x486bb.png",
+    "song_url": "https://music.apple.com/us/song/burning-blue/1811228836"
   }
+  
 ]
