@@ -1,0 +1,26 @@
+name: Update Artist Grid
+on:
+  push:
+    paths:
+      - 'artists.json' # This tells the robot: "Only wake up if I change the artist list"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install Tools
+        run: pip install Pillow requests
+      - name: Run Script
+        run: python generate_grid.py
+      - name: Commit changes
+        run: |
+          git config --global user.name 'Artist-Bot'
+          git config --global user.email 'bot@github.com'
+          git add artist_grid.png
+          git commit -m "Updated top artists" || exit 0
+          git push
