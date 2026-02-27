@@ -1,0 +1,13 @@
+
+[
+  {
+    "name": "Bruno Mars",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/75/7e/dd/757edd95-3276-ff15-7de3-5c8e8ec87b4c/ami-identity-865f12490d8b5356071cd06a025b5b6a-2026-01-09T05-04-02.540Z_cropped.png/486x486bb.png",
+    "song_url": "https://music.apple.com/us/album/the-romantic/1866732792"
+  },
+  {
+    "name": "Ella Mai",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/b0/97/e5/b097e5c5-bb78-7a7c-f83a-e6580dc548e1/ami-identity-ead123fa7ecab821cfc29d75f05c2bd9-2026-02-04T19-45-01.308Z_cropped.png/486x486bb.png",
+    "song_url": "https://music.apple.com/us/song/little-things/1858755207"
+  }
+]
