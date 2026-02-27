@@ -1,17 +1,51 @@
 ## TEST
-<h3>My Top 6 Artists <small>(click a face to play a song!)</small></h3>
+<div align="center">
+  <h3>🎵 My Top 6 Artists 🎵</h3>
+  <p><i>Click a profile to play my favorite track</i></p>
 
-<img src="artist_grid.png" usemap="#artist-map" width="100%">
-
-<map name="artist-map">
-  <area shape="circle" coords="190,190,150" alt="Artist 1" href="SONG_LINK_1">
-  <area shape="circle" coords="530,190,150" alt="Artist 2" href="SONG_LINK_2">
-  <area shape="circle" coords="870,190,150" alt="Artist 3" href="SONG_LINK_3">
-  
-  <area shape="circle" coords="190,530,150" alt="Artist 4" href="SONG_LINK_4">
-  <area shape="circle" coords="530,530,150" alt="Artist 5" href="SONG_LINK_5">
-  <area shape="circle" coords="870,530,150" alt="Artist 6" href="SONG_LINK_6">
-</map>
+  <table border="0">
+    <tr>
+      <td align="center" width="200">
+        <a href="SONG_LINK_1">
+          <img src="https://i.scdn.co/image/ab6761610000e5ebc361d36618c14d795837f139" width="150" style="border-radius: 50%;" alt="Bruno Mars"><br>
+          <b>Bruno Mars</b>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="SONG_LINK_2">
+          <img src="https://i.scdn.co/image/ab6761610000e5eb5626d708f51a700549c49a37" width="150" style="border-radius: 50%;" alt="Ella Mai"><br>
+          <b>Ella Mai</b>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="SONG_LINK_3">
+          <img src="https://i.scdn.co/image/ab6761610000e5eb1d2745772390a8a649666014" width="150" style="border-radius: 50%;" alt="T-Pain"><br>
+          <b>T-Pain</b>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200">
+        <a href="SONG_LINK_4">
+          <img src="https://i.scdn.co/image/ab6761610000e5eb305c4514309322c34d93e25b" width="150" style="border-radius: 50%;" alt="Jess Glynne"><br>
+          <b>Jess Glynne</b>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="SONG_LINK_5">
+          <img src="https://i.scdn.co/image/ab6761610000e5eb4f9448092ecb31362e646272" width="150" style="border-radius: 50%;" alt="Victoria Monét"><br>
+          <b>Victoria Monét</b>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="SONG_LINK_6">
+          <img src="https://i.scdn.co/image/ab6761610000e5eb66223594190623a23362a931" width="150" style="border-radius: 50%;" alt="Mariah the Scientist"><br>
+          <b>Mariah the Scientist</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ### Hello! Thank you for stopping by and visiting my tech portfolio.
