@@ -162,7 +162,7 @@ I adhere to NASA's philosophy of Safety Critical Code. The rules are established
     <td>CORSAIR DDR4 32GB 3200MT/s</td>
 </tr>  
     <td>Storage</td>
-    <td>SAMSUNG 990 Evo Plus 1TB, CRUCIAL P3 500GB</td>
+    <td>SAMSUNG 990 Evo Plus 1TB, CRUCIAL P3 500GB, Seagate Momentus 500GB HDD</td>
 </tr>
     <td>Peripherals</td>
     <td>Insta360 Link 2, LG UltraGear 27" QHD 180Hz @ 2560x1440p </td>
