@@ -61,6 +61,27 @@ I am currently working on NVIDIA Cosmos. Driven by curiosity, I always want to l
 
 I am the creator of Addlyn, a CV model I've created when I was 15. I am looking to continue my work with Amerieca, another CV model but with significant upgrades to its predecessor.
 
+I have participated in the following competitions!
+
+<table>
+  <tr>
+  </tr>
+  <tr>
+    <td>Artemis II Data Methodology Competition (Innobear)</td>
+  </tr>
+  <tr>
+    <td>Cosmos Cookoff (NVIDIA)</td>
+  </tr>
+  <tr>
+    <td>NXP Engineering Bootcamp (San Diego State University)</td>  
+  </tr>
+  <tr>
+    <td>CtF Cyber Security (Department of Defense)</td>  
+  </tr>
+  <tr>
+    <td>Stanford Treehacks (NVIDIA)</td>  
+  </table>
+
 ## Coding Philosophy
 
 I code in Python and C++, and have dabbled in Ada, Swift, PowerShell, and of course HTML - JavaScript, PHP, and CSS (how else would I have build this read.me?!!).
