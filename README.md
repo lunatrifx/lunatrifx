@@ -53,13 +53,73 @@ I'm attending San Diego State University. I am pursing a BS in Neuroscience, and
 
 ## 🔭 Current
 
-I'm currently working as a Video Codec SDK Engineer through the NVIDIA Developer Program. I worked with the American Red Cross as a SAF/MEPS Data Analyst from May to August 2025.
+I'm currently working as a Driver Engineer through the NVIDIA Developer Program. I worked with the American Red Cross as a SAF/MEPS Data Analyst from May to August 2025.
 
 ## ⚡️ Experience
 
 I am currently working on NVIDIA Cosmos. Driven by curiosity, I always want to look for the most power and storage efficient solutions for consumers; in addition to this I am driven to create video codec algorithms that present the best quality with any hardware. 
 
 I am the creator of Addlyn, a CV model I've created when I was 15. I am looking to continue my work with Amerieca, another CV model but with significant upgrades to its predecessor.
+
+## Coding Philosophy
+
+I code in Python and C++, and have dabbled in Ada, Swift, PowerShell, and of course HTML - JavaScript, PHP, and CSS (how else would I have build this read.me?!!).
+
+I adhere to NASA's philosophy of Safety Critical Code. The rules are established below. 
+
+<table>
+  <tr>
+    <th>Rule</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Rule 1</td>
+    <td>Simple Control Flow (no recursion, goto, setjmp, longjmp, etc.)</td>
+  </tr>
+    <td>Rule 2</td>
+    <td>Limit All Loops (All Loops Need a Fixed Upper Bound) </td>
+</tr>
+    <td>Rule 3</td>
+    <td>Don't use the Heap (optimize code for memory and storage efficiency) </td>
+</tr>
+    <td>Rule 4</td>
+    <td>Limit Function Size (Means no more than about 60 lines of code per function.) </td>
+</tr>  
+    <td>Rule 5</td>
+    <td>Check Return Values</td>
+</tr>
+    <td>Rule 6</td>
+    <td>Limit the use of the Preprocessor </td>
+</tr>
+    <td>Rule 7</td>
+    <td> Restrict Pointers Use </td>
+</tr>
+    <td>Rule 8</td>
+    <td> Be Pedantic </td>
+</tr>
+    <td>Rule 9</td>
+    <td>2 Assertions per Function </td>
+</tr>
+    <td>Rule 10</td>
+    <td>Account for everything and make sure there's no fault even with a warning in code. </td>
+</table>
+
+
+## I've Received Letters of Recommendation from:
+
+<table>
+  <tr>
+    <th>Author</th>
+    <th>Profession</th>
+  <tr>
+    <td>Dr. Shaunte Griffith-Jackson</td></td>
+    <td>Professor of Microbiology @ Southwestern College</td>
+  </tr>
+    <td>Dr. Alexander Juden</td>
+    <td>Professor of Analytical Mathematics @ Southwestern College
+    
+</table>
+
 
 ## My Specs 
 <table>
@@ -79,41 +139,29 @@ I am the creator of Addlyn, a CV model I've created when I was 15. I am looking 
 </tr>
     <td>RAM</td>
     <td>CORSAIR DDR4 32GB 3200MT/s</td>
-</tr>
-    <td>Internet</td>
-    <td>TP-LINK Archer TX553 WiFi 6 PCIe Adapter, CAT5E Ethernet </td>
 </tr>  
     <td>Storage</td>
     <td>SAMSUNG 990 Evo Plus 1TB, CRUCIAL P3 500GB</td>
 </tr>
-    <td>PSU</td>
-    <td>SEGOTEP 650W Modular PSU</td>
-</tr>
     <td>Peripherals</td>
-    <td>Insta360 Link 2, Bose Soundlink III, LG UltraGear 27" QHD 180Hz @ 2560x1440p </td>
+    <td>Insta360 Link 2, LG UltraGear 27" QHD 180Hz @ 2560x1440p </td>
 </tr>
     <td>Peripherals</td>
     <td>Logitech G Pro (K/DA Version), Razer Basilisk V3 </td>
 </table>
 
 
-## I've Received Letters of Recommendation from:
-
-<table>
-  <tr>
-    <th>Author</th>
-    <th>Profession</th>
-  <tr>
-    <td>Dr. Shaunte Griffith-Jackson</td></td>
-    <td>Professor of Microbiology @ Southwestern College</td>
-  </tr>
-    <td>Dr. Alexander Juden</td>
-    <td>Professor of Analytical Mathematics @ Southwestern College
-    
-</table>
-
 ## 📫 Contact
+**General Inquiries:** 
 
-**General Inquiries:** pquinlim@gmail.com, 206-659-9725
+Email: I'm getting a lot of spam emails, so not right now. 
+
+Phone: 206-659-9725
+
+YouTube: <a href="https://www.youtube.com/@PaulLavi"> ayokomoon </a>
+
+LinkedIn: <a href="https://www.linkedin.com/in/paul-lavigne-limpin-a47b1620a/?skipRedirect=true"> Paul Lavigne Limpin </a>
+
+
 
 
