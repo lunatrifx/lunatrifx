@@ -175,7 +175,7 @@ I adhere to NASA's philosophy of Safety Critical Code. The rules are established
 ## 📫 Contact
 **General Inquiries:** 
 
-Email: I'm getting a lot of spam emails, so not right now. 
+Email: pquinlim@gmail.com. 
 
 Phone: 206-659-9725
 
